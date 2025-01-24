@@ -8,41 +8,29 @@ The goal of this project is to analyze customer churn, which is the rate at whic
 The data for this project is a CSV file containing the following columns:
 
 ### Column	Description
-#### customer_id = 
-Unique identifier for each customer
+- customer_id = Unique identifier for each customer
 
-#### credit_score =
-Credit score of the customer
+- credit_score = Credit score of the customer
 
-#### country =
-Country of the customer
+- country = Country of the customer
 
-#### gender	= 
-Gender of the customer
+- gender = Gender of the customer
 
-#### age =	
-Age of the customer
+- age =	Age of the customer
 
-#### tenure	Duration (in years) = 
-the customer has been with the company
+- tenure Duration (in years) = the customer has been with the company
 
-#### balance = 
-Account balance of the customer
+- balance = Account balance of the customer
 
-#### products_number =	
-Number of products owned by the customer
+- products_number =	Number of products owned by the customer
 
-#### credit_card = 
-Whether the customer owns a credit card (1 = Yes, 0 = No)
+- credit_card = Whether the customer owns a credit card (1 = Yes, 0 = No)
 
-#### active_member =	
-Whether the customer is an active member (1 = Active, 0 = Inactive)
+- active_member = Whether the customer is an active member (1 = Active, 0 = Inactive)
 
-#### estimated_salary = 
-Estimated salary of the customer
+- estimated_salary = Estimated salary of the customer
 
-#### churn = 
-Whether the customer churned (1 = Yes, 0 = No)
+- churn =  Whether the customer churned (1 = Yes, 0 = No)
 
 
 ## Data Collection and Preparation
