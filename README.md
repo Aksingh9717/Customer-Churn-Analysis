@@ -1,5 +1,7 @@
 # Customer Churn Analysis
 
+![Image](https://github.com/user-attachments/assets/b4ea425f-c542-471b-85e6-d63c6e04c097)
+
 ## Problem Statement:
 The goal of this project is to analyze customer churn, which is the rate at which customers leave a business relative to the total customers. By studying the churn rate against various factors, we aim to identify the main contributors to churn and provide actionable insights for business users. These insights will help businesses strategize and make informed decisions to reduce churn.
 
@@ -173,5 +175,5 @@ Set relationships with many-to-one and one-to-many cardinality in the model tab.
 #### Snap of Dashboard
 
 ![Image](https://github.com/user-attachments/assets/b4ea425f-c542-471b-85e6-d63c6e04c097)
-)
+
 
